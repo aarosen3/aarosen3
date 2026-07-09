@@ -1,19 +1,14 @@
 # Hi there, I'm Aaron 👋
 
 ### 🚀 About Me
-* **Role:** Philosopher
-* **Location:** [e.g., Scottsdale, AZ]
-* **Current Focus:** Learning the technical landscape to bring my brainstorms to life
-* **Fun Fact:** [e.g., I have a notebook filled with 100+ app ideas]
+* **Role:** Philosopher 🥼
+* **Education:** University of Pennsylvania 📚 
+* **Location:** Arizona ☀️
+* **Current Focus:** Expanding my horizons and learning the language of technology 🧠
+* **Fun Fact:** I judge books by their covers and apps by their user interfaces 📲
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-  <a href="www.linkedin.com/in/aaron-rosen9876" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="aarosen3@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+<a href="www.linkedin.com/in/aaron-rosen9876" target="_blank" style="padding: 8px 12px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 4px; margin-right: 5px;">Connect on LinkedIn</a>
+<a href="mailto:aarosen3@gmail.com" style="padding: 8px 12px; background-color: #D14836; color: white; text-decoration: none; border-radius: 4px;">Send an Email</a>

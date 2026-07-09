@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @aarosen3, Consolidated Contracting, LLC.
-- 👀 I’m interested in ...  software developement federal contracts
-- 🌱 I’m currently learning ... data analytics
-- 💞️ I’m looking to collaborate on ... any size software developers or companies looking for a US government contract, please reach 
-out for further information!
-- 📫 How to reach me ... please reach me by email aarosen3@gmail.com or phone (602) 245-8681
+# Hi there, I'm Aaron 👋
 
-<!---
-aarosen3/aarosen3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+* **Role:** Philosopher
+* **Location:** [e.g., Scottsdale, AZ]
+* **Current Focus:** Learning the technical landscape to bring my brainstorms to life
+* **Fun Fact:** [e.g., I have a notebook filled with 100+ app ideas]
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="www.linkedin.com/in/aaron-rosen9876" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="aarosen3@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+</p>

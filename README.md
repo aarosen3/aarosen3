@@ -1,11 +1,11 @@
 # Hi there, I'm Aaron 👋
 
 ### 🚀 About Me
-* **Role:** Philosopher 🥼
-* **Education:** University of Pennsylvania 📚 
-* **Location:** Arizona ☀️
-* **Current Focus:** Expanding my horizons and learning the language of technology 🧠
-* **Fun Fact:** I judge books by their covers and apps by their user interfaces 📲
+**Role:** Philosopher 🥼
+**Education:** University of Pennsylvania 📚 
+**Location:** Arizona ☀️
+**Current Focus:** Expanding my horizons and learning the language of technology 🧠
+**Fun Fact:** I judge books by their covers and apps by their user interfaces 📲
 
 ---
 

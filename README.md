@@ -13,6 +13,6 @@
 
 ---
 ### 🤝 Connect with Me
-💼 **LinkedIn:** [Click here to connect with me](www.linkedin.com/in/aaron-rosen9876)
+💼 **LinkedIn:** [Click here to connect with me](https://www.linkedin.com/in/aaron-rosen9876)
 
 📧 **Email:** [Send me an email](mailto:aarosen3@.com)
